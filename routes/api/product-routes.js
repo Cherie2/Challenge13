@@ -57,7 +57,7 @@ router.get('/:id', async (req, res) => {
 // create new product
 router.post('/', async (req, res) => {
   try {
-    const newProduct = await Product.create(
+    const newProduct = await Product.create(req.body,
       {
         where:{
           product_name: req.body.product_name,
@@ -156,7 +156,7 @@ router.delete('/:id', async (req, res) => {
       return;
     }
 
-    res.status(200).json(productDel);
+    res.status(200).json({ message: 'Product deleted successfully!' });
   } catch (err) {
     res.status(500).json(err);
   }
