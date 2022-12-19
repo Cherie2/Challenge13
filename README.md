@@ -20,11 +20,11 @@ The motivation for this project is to provide users with a convenient and effici
 
 In completing this project, I have learned the basic concepts of MySQL, Sequelize, and Express.js. I have also learned the benefits of utilizing modular routes to maintain cleaner code.
 
-![ECommerceAppDemo](assets\ECommerceGetAll.gif)
+![ECommerceAppDemo](assets/ECommerceGetAll.gif)
 
-![ECommerceAppDemo](assets\ECommerceGetSingle.gif)
+![ECommerceAppDemo](assets/ECommerceGetSingle.gif)
 
-![ECommerceAppDemo](assets\ECommercePUTPOSTDEL.gif)
+![ECommerceAppDemo](assets/ECommercePUTPOSTDEL.gif)
 
 ## Video Demonstration
 
