@@ -28,6 +28,7 @@ In completing this project, I have learned the basic concepts of MySQL, Sequeliz
 
 ## Video Demonstration
 
+[EcommerceSetUp](https://drive.google.com/file/d/1xMe6TUwGp2FD93QDk76aAZLfDgJr5pvC/view?usp=share_link)
 [ECommerceGetAllAppDemo](https://drive.google.com/file/d/1hvn0i3jMBF8zJKX9O1bo7Bucuq9FRXka/view?usp=share_link)
 [ECommerceGetSingleAppDemo](https://drive.google.com/file/d/1fLsvEW7eB27IdVjoArSn8mY-lGlMLAxK/view?usp=share_link)
 [EcommercePUTPOSTDELAppDemo](https://drive.google.com/file/d/100ZDGh2TyMVxuwG5m_9MYZZ9YhRmjIYm/view?usp=share_link)
